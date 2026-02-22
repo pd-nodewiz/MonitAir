@@ -549,7 +549,8 @@ if (menuToggle && siteNav) {
   });
 
   document.addEventListener('click', (event) => {
-    if (!siteNav.contains(event.target)) {
+    const clickedMenuButton = menuToggle.contains(event.target);
+    if (!siteNav.contains(event.target) && !clickedMenuButton) {
       closeGroups();
       if (isMobile()) {
         siteNav.classList.remove('is-open');
