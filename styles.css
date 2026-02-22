@@ -429,6 +429,7 @@ a {
     top: 72px;
     left: 1rem;
     right: 1rem;
+    z-index: 80;
     background: #f8fbf9;
     border: 1px solid var(--line);
     border-radius: 13px;

@@ -516,7 +516,8 @@ const closeGroups = (except) => {
 };
 
 if (menuToggle && siteNav) {
-  menuToggle.addEventListener('click', () => {
+  menuToggle.addEventListener('click', (event) => {
+    event.stopPropagation();
     const open = siteNav.classList.toggle('is-open');
     menuToggle.setAttribute('aria-expanded', String(open));
     if (!open) closeGroups();
