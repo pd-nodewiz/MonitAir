@@ -1,0 +1,56 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A4A44"/>
+      <stop offset="1" stop-color="#2F6F66"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F5FCFA"/>
+      <stop offset="1" stop-color="#E8F4F0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="28" fill="url(#bg)"/>
+  <circle cx="1060" cy="110" r="180" fill="#5FA89B" fill-opacity="0.22"/>
+  <circle cx="180" cy="650" r="200" fill="#8BC2D3" fill-opacity="0.22"/>
+
+  <rect x="82" y="90" width="1036" height="580" rx="24" fill="#103934" fill-opacity="0.78"/>
+  <rect x="116" y="124" width="478" height="250" rx="16" fill="url(#card)"/>
+  <rect x="616" y="124" width="468" height="160" rx="16" fill="url(#card)"/>
+  <rect x="616" y="304" width="468" height="160" rx="16" fill="url(#card)"/>
+  <rect x="116" y="394" width="478" height="242" rx="16" fill="url(#card)"/>
+  <rect x="616" y="484" width="468" height="152" rx="16" fill="url(#card)"/>
+
+  <text x="146" y="172" fill="#1A4A44" font-size="30" font-family="Arial, sans-serif" font-weight="700">Population Overview</text>
+  <rect x="146" y="194" width="416" height="10" rx="5" fill="#C6DFD6"/>
+  <rect x="146" y="212" width="308" height="10" rx="5" fill="#D8EBE4"/>
+
+  <rect x="146" y="250" width="190" height="102" rx="12" fill="#DFF0EA"/>
+  <rect x="352" y="250" width="210" height="102" rx="12" fill="#D2EAE2"/>
+  <text x="166" y="292" fill="#19534B" font-size="30" font-family="Arial, sans-serif" font-weight="700">54M</text>
+  <text x="166" y="320" fill="#2E5F5D" font-size="18" font-family="Arial, sans-serif">U.S. sleep apnea</text>
+  <text x="370" y="292" fill="#19534B" font-size="30" font-family="Arial, sans-serif" font-weight="700">50%</text>
+  <text x="370" y="320" fill="#2E5F5D" font-size="18" font-family="Arial, sans-serif">PAP non-adherence</text>
+
+  <text x="646" y="170" fill="#1A4A44" font-size="28" font-family="Arial, sans-serif" font-weight="700">Live Risk Queue</text>
+  <rect x="646" y="194" width="388" height="14" rx="7" fill="#CBE3DA"/>
+  <rect x="646" y="220" width="300" height="14" rx="7" fill="#DFEFEA"/>
+  <rect x="646" y="246" width="358" height="14" rx="7" fill="#D3E8E0"/>
+
+  <text x="646" y="350" fill="#1A4A44" font-size="26" font-family="Arial, sans-serif" font-weight="700">Clinical Signals</text>
+  <polyline points="652,418 700,386 752,404 808,348 860,366 920,322 980,340 1034,300" stroke="#1C6A61" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1034" cy="300" r="8" fill="#1C6A61"/>
+
+  <text x="146" y="452" fill="#1A4A44" font-size="26" font-family="Arial, sans-serif" font-weight="700">Intervention Timeline</text>
+  <rect x="146" y="474" width="416" height="10" rx="5" fill="#CBE2DA"/>
+  <rect x="146" y="510" width="36" height="36" rx="8" fill="#CDE6DD"/>
+  <rect x="196" y="510" width="188" height="14" rx="7" fill="#DCEEE8"/>
+  <rect x="196" y="532" width="130" height="10" rx="5" fill="#E5F2EE"/>
+  <rect x="146" y="560" width="36" height="36" rx="8" fill="#CDE6DD"/>
+  <rect x="196" y="560" width="220" height="14" rx="7" fill="#DCEEE8"/>
+  <rect x="196" y="582" width="168" height="10" rx="5" fill="#E5F2EE"/>
+
+  <text x="646" y="548" fill="#1A4A44" font-size="26" font-family="Arial, sans-serif" font-weight="700">Program Readiness</text>
+  <rect x="646" y="568" width="380" height="18" rx="9" fill="#CBE3DA"/>
+  <rect x="646" y="568" width="282" height="18" rx="9" fill="#1D6D63"/>
+  <text x="646" y="618" fill="#2E5F5D" font-size="18" font-family="Arial, sans-serif">FDA MDDS + HIPAA-aligned workflow platform</text>
+</svg>

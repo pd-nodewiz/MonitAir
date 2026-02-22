@@ -1,0 +1,18 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="24" fill="#F2F0E7"/>
+  <rect x="66" y="66" width="668" height="388" rx="20" fill="#FFFFFF" stroke="#E1DAC8"/>
+  <text x="106" y="120" fill="#5C5131" font-size="30" font-family="Arial, sans-serif" font-weight="700">DME Program Performance</text>
+  <rect x="106" y="150" width="588" height="10" rx="5" fill="#E8DFC9"/>
+  <rect x="106" y="186" width="182" height="238" rx="12" fill="#F7F3E8"/>
+  <rect x="310" y="186" width="182" height="238" rx="12" fill="#F7F3E8"/>
+  <rect x="514" y="186" width="180" height="238" rx="12" fill="#F7F3E8"/>
+  <text x="122" y="224" fill="#6A5B35" font-size="18" font-family="Arial, sans-serif" font-weight="700">Setups</text>
+  <text x="326" y="224" fill="#6A5B35" font-size="18" font-family="Arial, sans-serif" font-weight="700">Compliance</text>
+  <text x="530" y="224" fill="#6A5B35" font-size="18" font-family="Arial, sans-serif" font-weight="700">Resupply</text>
+  <rect x="128" y="252" width="138" height="124" rx="8" fill="#E8DFC9"/>
+  <rect x="332" y="274" width="138" height="102" rx="8" fill="#DCCEA8"/>
+  <rect x="536" y="296" width="136" height="80" rx="8" fill="#CFBC86"/>
+  <text x="148" y="398" fill="#7B6A3D" font-size="14" font-family="Arial, sans-serif">Faster onboarding</text>
+  <text x="344" y="398" fill="#7B6A3D" font-size="14" font-family="Arial, sans-serif">Higher adherence</text>
+  <text x="546" y="398" fill="#7B6A3D" font-size="14" font-family="Arial, sans-serif">Retention growth</text>
+</svg>

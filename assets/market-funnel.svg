@@ -1,0 +1,15 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" rx="24" fill="#EAF2EF"/>
+  <polygon points="120,90 780,90 670,220 230,220" fill="#CFE4DC"/>
+  <polygon points="230,240 670,240 596,344 304,344" fill="#B4D6C8"/>
+  <polygon points="304,364 596,364 546,448 354,448" fill="#95C5B2"/>
+  <polygon points="354,466 546,466 508,534 392,534" fill="#2B7B68"/>
+  <text x="280" y="163" fill="#17483F" font-size="28" font-family="Arial, sans-serif" font-weight="700">Condition Burden (US)</text>
+  <text x="320" y="198" fill="#17483F" font-size="23" font-family="Arial, sans-serif">~70M adults (non-deduplicated)</text>
+  <text x="312" y="296" fill="#1C594E" font-size="24" font-family="Arial, sans-serif" font-weight="700">Targetable in RPM Programs</text>
+  <text x="360" y="326" fill="#1C594E" font-size="21" font-family="Arial, sans-serif">3.5M to 10.5M scenario range</text>
+  <text x="342" y="410" fill="#1A5D4D" font-size="22" font-family="Arial, sans-serif" font-weight="700">High-Risk Adherence Cohort</text>
+  <text x="396" y="438" fill="#1A5D4D" font-size="20" font-family="Arial, sans-serif">~27M OSA at-risk adults</text>
+  <text x="386" y="505" fill="#F1FFFA" font-size="22" font-family="Arial, sans-serif" font-weight="700">Near-term Beachhead</text>
+  <text x="420" y="532" fill="#F1FFFA" font-size="18" font-family="Arial, sans-serif">Sleep + Pulmonary + DME</text>
+</svg>

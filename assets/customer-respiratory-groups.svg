@@ -1,0 +1,18 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="24" fill="#E8F1F8"/>
+  <rect x="60" y="62" width="680" height="396" rx="20" fill="#FFFFFF" stroke="#CBDCE7"/>
+  <text x="102" y="120" fill="#1D4E69" font-size="30" font-family="Arial, sans-serif" font-weight="700">Pulmonary + NIV Operations</text>
+  <rect x="102" y="148" width="596" height="10" rx="5" fill="#D8E8F1"/>
+  <rect x="102" y="182" width="270" height="236" rx="14" fill="#EEF6FA"/>
+  <rect x="430" y="182" width="268" height="104" rx="14" fill="#EEF6FA"/>
+  <rect x="430" y="314" width="268" height="104" rx="14" fill="#EEF6FA"/>
+  <text x="124" y="226" fill="#245C74" font-size="18" font-family="Arial, sans-serif" font-weight="700">Escalation Queue</text>
+  <text x="124" y="254" fill="#3D6E83" font-size="15" font-family="Arial, sans-serif">Patients likely to decompensate</text>
+  <rect x="124" y="282" width="220" height="12" rx="6" fill="#D9EBF3"/>
+  <rect x="124" y="306" width="180" height="12" rx="6" fill="#D9EBF3"/>
+  <rect x="124" y="330" width="210" height="12" rx="6" fill="#D9EBF3"/>
+  <text x="450" y="224" fill="#245C74" font-size="18" font-family="Arial, sans-serif" font-weight="700">NIV Cohort Watch</text>
+  <text x="450" y="244" fill="#3D6E83" font-size="15" font-family="Arial, sans-serif">By severity, trend and intervention lag</text>
+  <text x="450" y="356" fill="#245C74" font-size="18" font-family="Arial, sans-serif" font-weight="700">Care Team Throughput</text>
+  <text x="450" y="376" fill="#3D6E83" font-size="15" font-family="Arial, sans-serif">Automated outreach + documentation</text>
+</svg>
